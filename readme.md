@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihuzaifaehsan&label=Profile%20views&color=0e75b6&style=flat" alt="ihuzaifaehsan" /> </p>
 
-- 🌱 I’m currently learning **React.Js**
-
 - 👨‍💻 All of my projects are available at [https://huzaifaehsan.netlify.app/](https://huzaifaehsan.netlify.app/)
 
 - 📫 How to reach me **iamhuzaifaehsan@gmail.com**
